@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>SIEPI - Multimedia</title>
+<link href="map_pu_rojo.ico" rel="icon" type="image/png"/>
+<link href="apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="manifest.json" rel="manifest"/>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" rel="stylesheet"/>
+<style>
+        :root {
+            --primary: #a51d2d;
+            --surface: #f8f9ff;
+            --surface-dim: #d0dbed;
+            --on-surface: #1a1c1e;
+        }
+        body {
+            font-family: 'Source Serif 4', serif;
+            background-color: var(--surface);
+            color: var(--on-surface);
+        }
+        .text-primary { color: var(--primary); }
+        .bg-primary { background-color: var(--primary); }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+<!-- Header -->
+<header class="w-full bg-white border-b border-gray-100 py-6 px-8">
+<div class="max-w-7xl mx-auto flex justify-between items-center">
+<h1 class="text-2xl font-black text-primary tracking-tight">SIEPI</h1>
+</div>
+</header>
+<!-- Main Content -->
+<main class="flex-grow">
+<!-- Hero Section -->
+<section class="max-w-7xl mx-auto px-8 py-20 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+<div class="space-y-8">
+<h2 class="text-5xl font-black leading-tight text-gray-900">
+                    SIEPI: Material Multimedia
+                </h2>
+<p class="text-xl text-gray-600 leading-relaxed max-w-xl">
+                    El Sistema de Información y Estadística sobre los Pueblos y Comunidades Indígenas (SIEPI) proporciona acceso público a datos sociodemográficos y económicos, cubriendo 76 municipios del estado de Puebla, destacando 58 con presencia indígena significativa.
+                </p>
+</div>
+<div class="relative bg-[#eff4ff] rounded-3xl p-8 flex justify-center items-center">
+<img alt="Mapa de Puebla" class="max-w-full h-auto drop-shadow-2xl" src="./assets/img/map_pu_rojo.png"/>
+</div>
+</section>
+<!-- Stats Section -->
+<section class="w-full border-t border-gray-200 py-16 bg-white">
+<div class="max-w-7xl mx-auto px-8 grid grid-cols-2 md:grid-cols-4 gap-8">
+<div class="text-center p-8 border border-gray-100 rounded-2xl">
+<span class="block text-5xl font-black text-primary mb-2">76</span>
+<span class="text-sm font-bold uppercase tracking-wider text-gray-500">Municipios Totales</span>
+</div>
+<div class="text-center p-8 border border-gray-100 rounded-2xl">
+<span class="block text-5xl font-black text-primary mb-2">58</span>
+<span class="text-sm font-bold uppercase tracking-wider text-gray-500">Municipios Indígenas</span>
+</div>
+<div class="text-center p-8 border border-gray-100 rounded-2xl">
+<span class="block text-5xl font-black text-primary mb-2">128</span>
+<span class="text-sm font-bold uppercase tracking-wider text-gray-500">Indicadores</span>
+</div>
+<div class="text-center p-8 border border-gray-100 rounded-2xl">
+<span class="block text-5xl font-black text-primary mb-2">7</span>
+<span class="text-sm font-bold uppercase tracking-wider text-gray-500">Ejes Temáticos</span>
+</div>
+</div>
+</section>
+</main>
+
+<script>
+        // Lógica de interacción para la portada multimedia
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log('SIEPI Multimedia Portal initialized');
+            
+            // Animación suave para los números de estadísticas
+            const stats = document.querySelectorAll('.text-5xl');
+            stats.forEach(stat => {
+                stat.classList.add('transition-transform', 'duration-500', 'hover:scale-110');
+            });
+        });
+    </script>
+</body>
+</html>
