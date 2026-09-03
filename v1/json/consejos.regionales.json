@@ -1,0 +1,126 @@
+[
+   {
+      "tab": "Español", 
+      "content": "español",
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-esp-min.webp",
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/sintesis-esp-min.webp", 
+      "iframe": null,
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/esp.pdf",
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/esp.pdf",
+      "video": "https://sdti-ippi.github.io/siepi-multimedia/v1/video/consejos-regionales/esp.mp4",
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-esp.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-esp.mp3" }
+      ]
+   },
+   { 
+      "tab": "Náhua Norte",
+      "content": "Náhua Norte", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-nahuatl-norte-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-nahuatl-norte-min.webp", 
+      "iframe": "https://www.youtube.com/embed/jIHH0QigfCo",
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/nahua-norte.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/nahua-norte.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-nahua-norte.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-nahua-norte.mp3" } 
+      ]
+   },
+   { 
+      "tab": "Totonaco Norte",
+      "content": "Totonaco Norte", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-totonaco-norte-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-totonaco-norte-min.webp", 
+      "iframe": "https://www.youtube.com/embed/c4c6fpQUmE0",
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/totonaco-norte.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/totonaco-norte.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-totonaco-norte.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-totonaco-norte.mp3" }
+      ]
+   },
+   { 
+      "tab": "Mazateco",
+      "content": "Mazateco", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-mazateco-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-mazateco-min.webp", 
+      "iframe": null,
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/mazateco.pdf",
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/mazateco.pdf",
+      "video": "https://sdti-ippi.github.io/siepi-multimedia/v1/video/consejos-regionales/mazateco.mp4",
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-mazateco.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-mazateco.mp3" }
+      ]
+   },
+   { 
+      "tab": "Ngigua",
+      "content": "Ngigua", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-ngigua-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-ngigua-min.webp", 
+      "iframe": "https://www.youtube.com/embed/q-vihJloIJ0", 
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/ngigua.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/ngigua.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-ngigua.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-ngigua.mp3" }
+      ]
+   },
+   { 
+      "tab": "Ngiva",
+      "content": "Ngiva", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-ngiva-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-ngiva-min.webp", 
+      "iframe": "https://www.youtube.com/embed/lilNqkYRAxU",
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/ngiva.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/ngiva.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-ngiva.mp3" }
+      ]
+   },
+   { 
+      "tab": "Otomí",
+      "content": "Otomí", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-otomi-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/sintesis-otomi-min.webp", 
+      "iframe": null,
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/otomi.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/otomi.pdf",
+      "video": "https://sdti-ippi.github.io/siepi-multimedia/v1/video/consejos-regionales/otomi.mp4",
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-otomi.mp3" }
+            ]
+   },
+   { 
+      "tab": "Mixteco",
+      "content": "Mixteco", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-mixteco-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-mixteco-min.webp", 
+      "iframe": "https://www.youtube.com/embed/AkhqXhR2WIo",
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/mixteco.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/mixteco.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-mixteco.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-mixteco.mp3" }
+      ]
+   },
+   { 
+      "tab": "Tepehua",
+      "content": "Tepehua", 
+      "img_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-tepehua-min.webp", 
+      "img_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/infografia/card-sin-tepehua-min.webp", 
+      "iframe": "https://www.youtube.com/embed/nxy1sS_gv2U",
+      "pdf_info": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/infografias/tepehua.pdf", 
+      "pdf_sin": "https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/consejos-regionales/sintesis/tepehua.pdf",
+      "video": null,
+      "audios":[
+         { "name":"Colsulta Indígena", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consulta-tepehua.mp3" },
+         { "name":"Consejos Regionales", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/consejos-regionales/consejos-tepehua.mp3" }
+      ]
+   }
+]

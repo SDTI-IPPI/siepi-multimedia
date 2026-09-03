@@ -1,0 +1,191 @@
+[
+	{
+		"title":"CARTELES", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/nahuatl-ippi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/totonaco-ippi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/mixteco-ippi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/tepehua-ippi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/ngigua-ippi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-lenguas/mazateco-ippi-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"VOCABULARIO JURÍDICO", 
+		"images":[
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-vocabulario-juridico/cj-mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-vocabulario-juridico/cj-ngigua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-vocabulario-juridico/cj-mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"PRONTUARIOS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/nahuatl-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/ngiva-1-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/ngiva-2-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/mazateco-1-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-prontuarios/mazateco-2-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[
+			{ "desc":"Lengua Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/prontuarios/nahuatl.mp3" },
+			{ "desc":"Lengua Totonaca", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/prontuarios/totonaco.mp3" },
+			{ "desc":"Lengua Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/prontuarios/mixteco.mp3" },
+			{ "desc":"Lengua Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/prontuarios/ngiva.mp3" },
+			{ "desc":"Lengua Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/audio/prontuarios/mazateco.mp3" }
+		],
+		"videos":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/video/prontuarios/nahuatl.mp4" },
+			{ "desc":"Totonaca", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/video/prontuarios/totonaco.mp4" },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/video/prontuarios/mixteco.mp4" },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/video/prontuarios/ngiva.mp4" },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/video/prontuarios/mazateco.mp4" }
+		]
+	},
+	{
+		"title":"DIVERSIDAD LINGÜÍSTICA", 
+		"images":[
+			{ "desc":"", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/map-general-min.webp", "type":"img", "pdf":null },
+			{ "desc":"", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/map-municipios-min.webp", "type":"img", "pdf":null },
+			{ "desc":"", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/plurilingue-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/nahuatl-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/ngiva-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-diversidad-linguistica/mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"ALFABETOS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-alfabetos/nahuatl-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-alfabetos/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-alfabetos/mixteco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"PARTES DE LA MILPA", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-partes-milpa/esp-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-partes-milpa/nahuatl-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-partes-milpa/totonaco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"TERRITORIOS BIOCULTURALES", 
+		"images":[
+			{ "desc":"Náhuatl Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/nahuatl-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl Puebla - Veracruz", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/nahuatl-puebla-veracruz-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl Sierra Negra", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/nahuatl-sierra-negra-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/totonaco-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco Total", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/totonaco-total-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/mixteco-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco Total", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/mixteco-total-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/tepehua-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua Total", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/tepehua-total-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/otomi-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí Total", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/otomi-total-min.webp", "type":"img", "pdf":null },           
+			{ "desc":"Ngiva Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/ngiva-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco Estatal", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/mazateco-estatal-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco Total", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-territirios-bioculturales/mazateco-total-min.webp", "type":"img", "pdf":null }
+
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"¿DÓNDE ESTÁN LOS PUEBLOS INDÍGENAS Y SUS HABLANTES", 
+		"images":[
+			{ "desc":"Portada 1", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/portada-1-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Portada 2", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/portada-2-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/nahuatl-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/ngiva-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-pueblos-indigenas/mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"ANATOMIA DEL TACO", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/esp-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Nahuatl Norte", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/nahuatl-norte-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl Sur", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/nahuatl-sur-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/ngiva-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-anatomia-taco/mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"DIETA DE LA MILPA", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/esp-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Nahuatl Norte", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/nahuatl-norte-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl Sur", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/nahuatl-sur-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/ngiva-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-dieta-milpa/mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"JARRITO BALANCEADO", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/esp-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Nahuatl Norte", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/nahuatl-norte-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/totonaco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/mixteco-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/tepehua-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/otomi-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/ngiva-min.webp", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-jarrito-balanceado/mazateco-min.webp", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"SANO Y SABROSO, MI TACO AMOROSO", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/esp-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/esp.pdf" },
+			{ "desc":"Nahuatl Norte", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/nahuatl-norte-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/nahuatl-norte.pdf" },
+			{ "desc":"Nahuatl Sur", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/nahuatl-sur-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/nahuatl-sur.pdf" },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/totonaco-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/totonaco.pdf" },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/mixteco-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/mixteco.pdf" },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/tepehua-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/tepehua.pdf" },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/otomi-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/otomi.pdf" },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/ngiva-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/ngiva.pdf" },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/post-mi-taco/mazateco-min.webp", "type":"pdf", "pdf":"https://sdti-ippi.github.io/siepi-multimedia/v1/pdf/mi-taco/mazateco.pdf" }
+		],
+		"audios":[],
+		"videos":[]
+	}
+]

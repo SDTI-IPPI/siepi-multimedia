@@ -1,0 +1,62 @@
+[
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-cultura-min.webp", 
+      "title": "Cultura", 
+      "description": "Ofrece información acerca de las tradiciones y los espacios culturales que los diferentes municipios poseen."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-economia-min.webp", 
+      "title": "Economía", 
+      "description": "Presenta una perspectiva de la vida indígena en sus ocupaciones, ingresos y carencias."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-educacion-min.webp", 
+      "title": "Educación", 
+      "description": "Proporciona información acerca del proceso de adquirir conocimientos en los diferentes grados académicos del nivel básico y si estos son de pertinencia indígena."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-gobernanza-min.webp", 
+      "title": "Gobernabilidad y Gobernanza", 
+      "description": "Difunde la estructura de gobierno y el numero de iniciativas aprobadas en asuntos indígenas."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-infraestructura-min.webp", 
+      "title": "Infraestructura", 
+      "description": "Ofrece conocimiento de los servicios básicos (agua, luz y alcantarilla) y carencias sociales."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-justicia-min.webp", 
+      "title": "Justicia y Seguridad", 
+      "description": "Brinda información cuantitativa de los municipios en materia de derecho familiar y agrario."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-lengua-min.webp", 
+      "title": "Lengua", 
+      "description": "Ofrece información sobre las lenguas indígenas habladas en los pueblos y comunidades, incluyendo su número de hablantes, traductores o intérpretes."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-medio-ambiente-min.webp", 
+      "title": "Medio Ambiente", 
+      "description": "Presenta información acerca del ecosistema y problema ambiental (incendios forestales)." 
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-migracion-min.webp", 
+      "title": "Migración", 
+      "description": "Identifica la intensidad del cambio de residencia y por consiguiente las remesas que los municipios reciben."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-salud-min.webp", 
+      "title": "Salud", 
+      "description": "Ofrece información sobre el índice de natalidad - mortalidad, unidades médicas en servicio y el acceso a los servicios de salud."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-tecnologia-min.webp", 
+      "title": "Tecnología", 
+      "description": "Brinda información acerca del uso de las TICS y el acceso a internet de los municipios."  
+   },
+   {
+      "img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/cover-afromexicana-min.webp", 
+      "title": "Afromexicana", 
+      "description": ""  
+   }
+]

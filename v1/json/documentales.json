@@ -1,0 +1,80 @@
+[
+	{ 
+		"date": 2024, 
+		"src": "https://www.youtube.com/embed/T0SfJl92dLQ", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/01-min.webp", 
+		"title": "Canoa. El baile del Xochitelpoch", 
+		"desc": "Canoa un pueblo nahua, guardián de la Matlacueye o Malinche, agradece y pide por los alimentos y vida que les provee. Conoce su relación con la montaña, la alegría y orgullo con que conservan su identidad." 
+	},
+	{ 
+		"date": 2024, 
+		"src": "https://www.youtube.com/embed/fVtTBwFgA7A", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/02-min.webp", 
+		"title": "La gente debajo de la Montaña", 
+		"desc": "La fiesta de los Chonijmo o “Día de Muertos”,  refleja la cosmovisión del pueblo mazateco, convirtiéndose en una forma singular de honrar y recordar a quienes se nos han adelantado." 
+	},
+	{ 
+		"date": 2023, 
+		"src": "https://www.youtube.com/embed/orOOfkxovLA", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/03-min.webp", 
+		"title": "Somos Mazatecos", 
+		"desc": "“Somos Mazatecos” retrata la memoria histórica y vida de las comunidades mazatecas del estado de Puebla, a través de este viaje conoce su cosmovisión y las situaciones a las que se enfrentan." 
+	},
+	{ 
+		"date": 2023, 
+		"src": "https://www.youtube.com/embed/rcIX2DLuQBQ", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/11-min.webp", 
+		"title": "Recuperación justa y resiliente de comunidades indígenas de la Sierra Norte de Puebla", 
+		"desc": "En coordinación y con financiamiento de la Alianza Latinoamérica Sostenible, Ethos Innovación en Políticas Públicas y el Instituto Poblano de los Pueblos Indígenas, se impulsó el programa “Recuperación justa y resiliente de nuestras comunidades indígenas ante el COVID 19”, con el que se fomentaron estrategias de resiliencia en comunidades indígenas rurales en tres ejes: cajas de ahorro comunitario, reforzamiento de la seguridad alimentaria y acompañamiento técnico productivo." 
+	},
+	{ 
+		"date": 2023, 
+		"src": "https://www.youtube.com/embed/4L_DP5uVOfo", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/04-min.webp", 
+		"title": "La devoción al viento, la ceremonia ritual del volador", 
+		"desc": "Como parte del orgullo, identidad y herencia cultural en Cuetzalan del Progreso Puebla, la ceremonia de los voladores se práctica desde la devoción, espiritualidad y conexión con las raíces más profundas, misma que reúne cada año a la comunidad pues requiere de la ayuda de todas y todos para llevar a cabo este ritual milenario asociado a la fertilidad."
+	},
+	{ 
+		"date": 2023, 
+		"src": "https://www.youtube.com/embed/li962abW9Z4", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/05-min.webp", 
+		"title": "Pueblo Ngiva", 
+		"desc": "Siendo uno de los pueblos originarios menos conocidos, representan a la tercera lengua indígena de mayor relevancia en el estado de Puebla, con más de 18 mil 206 personas hablantes, Pueblo Ngiva recupera los testimonios de pobladores de la comunidad de San Juan Atzingo municipio de San Gabriel Chilac del estado de Puebla." 
+	},
+	{ 
+		"date": 2022, 
+		"src": "https://www.youtube.com/embed/H3faN5Bx-UQ", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/06-min.webp", 
+		"title": "Voces de la Sierra. Memorias Inéditas del 5 de mayo", 
+		"desc": "Desde el corazón de las comunidades originarias donde siempre ha soplado el viento libertario, Voces de la Sierra relata, a través de los testimonios de sus pobladores y descendientes de combatientes, lo ocurrido en la Batalla del 5 de Mayo de 1862 y su impacto social a través de los años. Historias de los héroes locales de las comunidades serranas de Puebla y sus hazañas en busca de reconocimiento y de justicia histórica." 
+	},
+	{ 
+		"date": 2022, 
+		"src": "https://www.youtube.com/embed/so67VKUYKcU", 
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/08-min.webp", 
+		"title": "Un dulce tesoro abeja melipona.", 
+		"desc": "La colaboración colectiva y cultura ancestral de los pueblos, ha permitido que las abejas se conserven en nuestros tiempos. \"Un dulce tesoro Abeja Melipona\" retrata la relación que los Pueblos Indígenas de la sierra nororiental del estado cultivan y protegen para la extracción de miel." 
+	},
+	{ 
+		"date":2022, 
+		"src": "https://www.youtube.com/embed/x-ID5tUtW7Q", 
+		"img":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/07-min.webp", 
+		"title":"Justicia Indígena", 
+		"desc":"Justicia Indígena aborda los mecanismos de los juzgados indígenas desde la mirada de quienes velan por el cumplimiento de los derechos sociales en las diversas comunidades indígenas del estado de Puebla y de quienes han hecho uso de los mismos, así como de personas expertas en el tema que abundan en la reflexión sobre importancia de la construcción cotidiana del derecho." 
+	},
+	{ 
+		"date":2022, 
+		"src": "https://www.youtube.com/embed/6ll7xA34tcw", 
+		"img":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/09-min.webp", 
+		"title":"Tlaso´camati: Tras la niebla. Documental de la sierra negra de Puebla.", 
+		"desc":"“Tras la niebla” es el nombre del primero de dos documentales desarrollados en la Sierra Negra de Puebla que guardan como común denominador comprender el valor de lo brindado mediante el vocablo náhuatl \"Tlaso'camati\", en español \"gracias\". A través de la voz de Investigadores expertos y habitantes se descubre su realidad." 
+	},
+	{ 
+		"date":2021, 
+		"src": "https://www.youtube.com/embed/txlAMidGing", 
+		"img":"https://sdti-ippi.github.io/siepi-multimedia/v1/img/documentales/10-min.webp", 
+		"title":"El Xochitelpoch", 
+		"desc":"San Miguel Canoa es una comunidad indígena perteneciente al municipio de Puebla, ubicado a las faldas del volcán La Malinche, su población es hablante náhuatl y a pesar de su cercanía con la ciudad de Puebla conserva sus tradiciones. Por ejemplo el baile del Xochitelpoch en sus bodas, que trata de un “palo adornado” con papel crepé de diferentes colores, que se baila hasta despedazarlo ya que representa la felicidad y juventud de los novios." 
+	}
+
+]

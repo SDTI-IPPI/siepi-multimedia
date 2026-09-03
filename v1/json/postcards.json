@@ -1,0 +1,52 @@
+[
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-01-min.webp", 
+		"title": "Población en el estado de puebla", 
+		"description": "En Puebla la población en hogares censales indígenas es de 1,043,116 personas y la población de 3 años y más que habla alguna lengua indígena es de 615,622 personas, quienes se encuentran distribuidas en los 217 municipios del estado." 
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-02-min.webp", 
+		"title": "Grados de marginación de municipios indígenas", 
+		"description": "En los 76 municipios con población indígena y presencia indígena del estado de Puebla, el 50% presentan un alto grado de marginación y el 13.16% se encuentran en un muy alto grado de marginación."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-03-min.webp", 
+		"title": "¿Qué es el SIEPI?", 
+		"description": "EI SIEPI reune más de 100 indicadores de fuentes institucionales de los 76 municipios con poblacion indigena y presencia indigena del estado de Puebla."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-04-min.webp", 
+		"title": "Gobernabilidad y Gobernanza", 
+		"description": "En el año 2021, de los 76 municipios con población indígena y presencia indígena, la presidencia de los ayuntamientos, que es el puesto de máxima autoridad, fue presidido en un 80% por hombres y 20% por mujeres."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-05-min.webp", 
+		"title": "Municipios con Interpretes Certificados", 
+		"description": "13 municipios de los 76 municipios con población indígena y presencia indígena del estado, cuentan con personas intérpretes certificadas en los estándares de justicia y evaluación. Ellas y ellos contribuyen a mejorar el acceso a la justicia de la población indígena."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-06-min.webp", 
+		"title": "Infraestructura", 
+		"description": "La carencia por calidad y espacios de la vivienda indica aquellas en las que sus espacios no tienen condiciones idóneas para establecerse es decir, no cuentan con materiales que protejan a sus habitantes de clima e incluso pudiesen ser perjudiciales para su salud."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-07-min.webp", 
+		"title": "Migración", 
+		"description": "Las remesas representan una de las principales fuentes de divisas en el país, estos son importantes para las familias que las reciben ya que incrementan su ingreso y por ende, su consumo."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-08-min.webp", 
+		"title": "Población Afromexicana", 
+		"description": "De acuerdo al instituto Nacional de Estadística y Geografía (INEGI) \"las personas afromexicanas o afrodescendientes son aquellas que se autoreconocen afrodescendientes por su cultura, costumbres tradiciones\", estás comunidades son muy importantes ya que forman parte de la gran diversidad cultural y étnica de nuestro país."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-09-min.webp", 
+		"title": "Salud", 
+		"description": "Las casas de salud son parte del ejercicio de rescate de la medicina tradicional de los pueblos indígenas. Es a través de los saberes y bajo la colaboración de la Secretaría de Salud que se consigue fortalecer y mantener el conocimiento de quienes auxilian en ellas."  
+	},
+	{
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v1/img/postcards/postal-10-min.webp", 
+		"title": "Tecnologías", 
+		"description": "El porcentaje promedió de viviendas que disponen de interne 76 municipios con población indígena y presencia indígena del estado, es de 16.99% siendo este un porcentaje muy bajo." 
+	 }
+]
