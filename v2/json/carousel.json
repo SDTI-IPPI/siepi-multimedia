@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v2/img/banners/banner-4-min.webp",
+		"width": 1920,
+		"height": 551,
+		"page": null,
+		"title": "",
+		"subtitle": ""
+	},
+	{
+		"id": 2,
+		"img": "https://sdti-ippi.github.io/siepi-multimedia/v2/img/banners/banner-8-min.webp",
+		"width": 1920,
+		"height": 551,
+		"page": "/PADI",
+		"title": "",
+		"subtitle": ""
+	}
+]
