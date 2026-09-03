@@ -1,0 +1,10 @@
+[
+    {"no": "197", "title": "Xicotepec", "lat": "20.2761376458444",  "long": "-97.9581816444088", "icon": "./files/point.png"},
+    {"no": "208", "title": "Zacatlán", "lat": "19.9322357776159",  "long": "-97.9602735101467", "icon": "./files/point.png"},
+    {"no": "207", "title": "Zacapoaxtla", "lat": "19.8731072922424",  "long": "-97.5890138100434", "icon": "./files/point.png"},
+    {"no": "045", "title": "Chalchicomula de Sesma", "lat": "18.9881457466247",  "long": "-97.4484273203125", "icon": "./files/point.png"},
+    {"no": "019", "title": "Atlixco", "lat": "18.9097339583488",  "long": "-98.4345052008707", "icon": "./files/point.png"},
+    {"no": "003", "title": "Acatlán", "lat": "18.2014773174291",  "long": "-98.0488375314146", "icon": "./files/point.png"},
+    {"no": "156", "title": "Tehuacán", "lat": "18.4624509259465",  "long": "-97.3926604111211", "icon": "./files/point.png" },
+    {"no": "010", "title": "Ajalpan", "lat": "18.3775358210868",  "long": "-97.2576656991768", "icon": "./files/point.png"}
+]

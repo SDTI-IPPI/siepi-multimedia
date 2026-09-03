@@ -1,0 +1,20 @@
+[
+    {"no": "001", "title": "Acajete", "region": "ANGELOPOLIS", "lat": "19.1049703029994",  "long": "-97.9527128660101"},
+    {"no": "015", "title": "Amozoc", "region": "ANGELOPOLIS", "lat": "19.0445950893106",  "long": "-98.0448007608242"},
+    {"no": "019", "title": "Atlixco", "region": "V. ATLIXCO Y MATAMOROS", "lat": "18.9097339583488",  "long": "-98.4345052008707"},
+    {"no": "054", "title": "Chignautla", "region": "S. NORORIENTAL", "lat": "19.8137804766221",  "long": "-97.3890560669249"},
+    {"no": "071", "title": "Huauchinango", "region": "S. NORTE - XICOTEPEC", "lat": "20.174714906951",  "long": "-98.0518508990908"},
+    {"no": "083", "title": "Ixtacamaxtitlán", "region": "S. NORTE - ZACATLÁN", "lat": "19.6236318745039",  "long": "-97.8165717020195"},
+    {"no": "114", "title": "Puebla", "region": "ANGELOPOLIS", "lat": "19.0441195705223",  "long": "-98.1977931325269"},
+    {"no": "119", "title": "San Andrés Cholula", "region": "ANGELOPOLIS", "lat": "19.0506173094928",  "long": "-98.3005545166382"},
+    {"no": "149", "title": "Santiago Miahuatlán", "region": "TEHUACAN", "lat": "18.5529131853999",  "long": "-97.4442516306656"},
+    {"no": "156", "title": "Tehuacán", "region": "TEHUACAN", "lat": "18.4624509259465",  "long": "-97.3926604111211"},
+    {"no": "163", "title": "Tepatlaxco de Hidalgo", "region": "ANGELOPOLIS", "lat": "19.0772802321147",  "long": "-97.9666211294987"},
+    {"no": "172", "title": "Tetela de Ocampo", "region": "S. NORTE - ZACATLÁN", "lat": "19.8169424895745",  "long": "-97.8060562696098"},
+    {"no": "174", "title": "Teziutlán", "region": "S. NORORIENTAL", "lat": "19.817556807038",  "long": "-97.3610255897622"},
+    {"no": "177", "title": "Tlacotepec de Benito Juárez", "region": "TEHUACAN", "lat": "18.6818660219528",  "long": "-97.6537498435815"},
+    {"no": "178", "title": "Tlacuilotepec", "region": "S. NORTE - XICOTEPEC", "lat": "20.3262923436759",  "long": "-98.0688414773793"},
+    {"no": "186", "title": "Tlatlauquitepec", "region": "S. NORORIENTAL", "lat": "19.8514008902009",  "long": "-97.496718338726"},
+    {"no": "197", "title": "Xicotepec", "region": "S. NORTE - XICOTEPEC", "lat": "20.2761376458444",  "long": "-97.9581816444088"},
+    {"no": "208", "title": "Zacatlán", "region": "S. NORTE - ZACATLÁN", "lat": "19.9322357776159",  "long": "-97.9602735101467"}
+]
