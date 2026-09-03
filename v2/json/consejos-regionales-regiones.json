@@ -1,0 +1,13 @@
+{
+  "regions": [
+    { "label": "I. Angelópolis, Valle de Atlixco y Matamoros", "hex": "#90CAF9" },
+    { "label": "II. Mixteca", "hex": "#ef5350" },
+    { "label": "III. Sierra Negra", "hex": "#80CBC4" },
+    { "label": "IV. Valle de Tehuacán", "hex": "#ad2b0e" },
+    { "label": "V. Valle de Serdán", "hex": "#0c9138" },
+    { "label": "VI. Sierra Nororiental", "hex": "#de7d37" },
+    { "label": "VII. Sierra Norte - Xicotepec", "hex": "#1b5e20" },
+    { "label": "VIII. Sierra Norte - Zacatlán", "hex": "#76ad0e" }
+  ],
+  "anexo10": { "label": "Anexo 10 · Mapa de Regionalización", "url": "v2/pdf/consejos-regionales/anexo-10-regionalizacion.pdf", "size": "5.2 MB" }
+}

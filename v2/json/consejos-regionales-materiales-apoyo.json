@@ -1,0 +1,47 @@
+[
+  {
+    "key": "minuta",
+    "icon": "mdi-note-text-outline",
+    "badge": "Etapa informativa",
+    "title": "Anexo 7 · Minuta de Reunión Informativa",
+    "desc": "Registra el desarrollo de cada reunión informativa con comunidades: información compartida, preguntas y observaciones.",
+    "url": "v2/pdf/consejos-regionales/materiales-apoyo/anexo-7-minuta-reunion-informativa.pdf",
+    "size": "0.5 MB"
+  },
+  {
+    "key": "asistencia-informativa",
+    "icon": "mdi-clipboard-list-outline",
+    "badge": "Etapa informativa",
+    "title": "Anexo 6 · Lista de Asistencia (Etapa Informativa)",
+    "desc": "Formato de registro de las personas que asisten a las reuniones informativas con comunidades.",
+    "url": "v2/pdf/consejos-regionales/materiales-apoyo/anexo-6-lista-asistencia-informativa.pdf",
+    "size": "0.3 MB"
+  },
+  {
+    "key": "acta-comunitaria",
+    "icon": "mdi-account-group-outline",
+    "badge": "Etapa deliberativa",
+    "title": "Anexo 2 · Acta de Asamblea Comunitaria",
+    "desc": "Formato sugerido para que la comunidad decida su participación y designe Representante Comunitario Propietario y Suplente.",
+    "url": "v2/pdf/consejos-regionales/materiales-apoyo/anexo-2-acta-asamblea-comunitaria.pdf",
+    "size": "0.1 MB"
+  },
+  {
+    "key": "acta-municipal",
+    "icon": "mdi-office-building-outline",
+    "badge": "Etapa consultiva",
+    "title": "Anexo 3 · Acta de Asamblea Municipal",
+    "desc": "Formato para la Asamblea Municipal Consultiva, donde los representantes comunitarios designan al Representante Municipal Propietario y Suplente.",
+    "url": "v2/pdf/consejos-regionales/materiales-apoyo/anexo-3-acta-asamblea-municipal.pdf",
+    "size": "0.1 MB"
+  },
+  {
+    "key": "no-identificacion",
+    "icon": "mdi-file-document-edit-outline",
+    "badge": "Caso especial",
+    "title": "Acta de Constancia · No Identificación de Comunidades",
+    "desc": "Para municipios donde, tras la revisión de las autoridades locales, no se identifican comunidades indígenas para efectos del proceso.",
+    "url": "v2/pdf/consejos-regionales/materiales-apoyo/acta-constancia-no-identificacion.pdf",
+    "size": "0.1 MB"
+  }
+]

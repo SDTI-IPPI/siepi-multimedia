@@ -1,0 +1,100 @@
+{
+  "steps": [
+    {
+      "key": "inicio",
+      "title": "Inicio",
+      "desc": "Metodología del proceso de consulta, estructura de las etapas (preparatoria, informativa, deliberativa y consultiva), y los principios rectores de participación comunitaria.",
+      "file": { "label": "Presentación del Proceso", "url": "v2/pdf/consejos-regionales/proceso-consulta-presentacion-2026v2.pdf", "size": "2.2 MB" }
+    },
+    {
+      "key": "protocolo",
+      "title": "Protocolo",
+      "desc": "Marco jurídico, glosario técnico, justificación del proyecto, regionalización del estado, estructura de los Consejos Regionales, calendario de actividades y gestión documental.",
+      "file": { "label": "Protocolo de Consulta 2026", "url": "https://ippi.puebla.gob.mx/images/convocatorias/P-2026-DOR-CRIAS.pdf", "size": "" }
+    },
+    {
+      "key": "convocatoria",
+      "title": "Convocatoria",
+      "desc": "Invitación formal a las comunidades, bases de participación (quiénes y cómo participan), objeto de la consulta, principios fundamentales y cronograma de etapas clave.",
+      "file": { "label": "Convocatoria para la Consulta", "url": "https://ippi.puebla.gob.mx/images/convocatorias/C-2026-DOR-CRIAS.pdf", "size": "" }
+    },
+    {
+      "key": "calendario",
+      "title": "Calendario de Actividades",
+      "desc": "Siete etapas con fechas y responsables definidos, del 1 de febrero al 3 de diciembre de 2026.",
+      "calendar": true
+    }
+  ],
+  "calendarRows": [
+    {
+      "etapa": "Etapa Preparatoria",
+      "actividades": "Planeación del proceso, elaboración del Protocolo, diseño metodológico, identificación de actores, integración de equipos operativos, coordinación institucional, regionalización, elaboración de materiales informativos y organización logística.",
+      "periodo": "1 de febrero al 30 de junio de 2026",
+      "responsable": "Instituto Poblano de los Pueblos Indígenas",
+      "start": "2026-02-01T00:00:00",
+      "end": "2026-06-30T23:59:59",
+      "inicioLabel": "1 de febrero de 2026",
+      "finLabel": "30 de junio de 2026"
+    },
+    {
+      "etapa": "Etapa de Acuerdos Previos",
+      "actividades": "Presentación, análisis y validación del Protocolo de Consulta, la Convocatoria y la metodología con el Consejo Estatal de Pueblos Indígenas.",
+      "periodo": "1 al 30 de julio de 2026",
+      "responsable": "IPPI y Consejo Estatal de Pueblos Indígenas",
+      "start": "2026-07-01T00:00:00",
+      "end": "2026-07-30T23:59:59",
+      "inicioLabel": "1 de julio de 2026",
+      "finLabel": "30 de julio de 2026"
+    },
+    {
+      "etapa": "Etapa Informativa",
+      "actividades": "Difusión de la convocatoria, socialización del proceso consultivo, reuniones informativas regionales y distribución de materiales informativos en español y lenguas indígenas.",
+      "periodo": "15 de agosto al 15 de septiembre de 2026",
+      "responsable": "IPPI, Enlaces Regionales y Ayuntamientos",
+      "start": "2026-08-15T00:00:00",
+      "end": "2026-09-15T23:59:59",
+      "inicioLabel": "15 de agosto de 2026",
+      "finLabel": "15 de septiembre de 2026"
+    },
+    {
+      "etapa": "Etapa Deliberativa",
+      "actividades": "Asambleas comunitarias, análisis, reflexión y construcción de acuerdos internos respecto de los mecanismos de representación e integración de los Consejos Regionales.",
+      "periodo": "16 al 30 de septiembre de 2026",
+      "responsable": "Comunidades indígenas, autoridades comunitarias e IPPI",
+      "start": "2026-09-16T00:00:00",
+      "end": "2026-09-30T23:59:59",
+      "inicioLabel": "16 de septiembre de 2026",
+      "finLabel": "30 de septiembre de 2026"
+    },
+    {
+      "etapa": "Etapa Consultiva",
+      "actividades": "Realización de las Asambleas Municipales Consultivas para la designación de las personas Consejeras Regionales Propietarias y Suplentes.",
+      "periodo": "1 al 31 de octubre de 2026",
+      "responsable": "Comunidades indígenas, representantes comunitarios e IPPI",
+      "start": "2026-10-01T00:00:00",
+      "end": "2026-10-31T23:59:59",
+      "inicioLabel": "1 de octubre de 2026",
+      "finLabel": "31 de octubre de 2026"
+    },
+    {
+      "etapa": "Seguimiento y Verificación",
+      "actividades": "Revisión documental, integración de expedientes, verificación de resultados y acompañamiento a la conformación de los Consejos Regionales.",
+      "periodo": "1 al 15 de noviembre de 2026",
+      "responsable": "Comisión de Seguimiento y Verificación",
+      "start": "2026-11-01T00:00:00",
+      "end": "2026-11-15T23:59:59",
+      "inicioLabel": "1 de noviembre de 2026",
+      "finLabel": "15 de noviembre de 2026"
+    },
+    {
+      "etapa": "Instalación de los Consejos Regionales",
+      "actividades": "Acreditación de consejeras y consejeros regionales, instalación formal de los Consejos Regionales y presentación de los resultados finales del proceso consultivo.",
+      "periodo": "16 de noviembre al 3 de diciembre de 2026",
+      "responsable": "IPPI, Comisión de Seguimiento y Verificación y Consejos Regionales",
+      "start": "2026-11-16T00:00:00",
+      "end": "2026-12-03T23:59:59",
+      "inicioLabel": "16 de noviembre de 2026",
+      "finLabel": "3 de diciembre de 2026"
+    }
+  ]
+}
